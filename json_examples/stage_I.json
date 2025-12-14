@@ -1,0 +1,47 @@
+{
+  "short_description": "A realistic 3D cross-section of a female breast, rendered with a medical-neutral color palette for educational purposes. The image prominently features a Stage I tumor, approximately 28mm in size, located within the upper outer quadrant. The overall presentation is clean and clinical, designed for clear anatomical and pathological visualization.",
+  "objects": [
+    {
+      "description": "The internal structure of a female breast, depicted in cross-section. It shows various tissues including glandular tissue, adipose tissue, and ducts, all rendered with accurate anatomical detail. The tissues are subtly differentiated by color and texture to highlight their distinct roles.",
+      "location": "center",
+      "relationship": "The primary subject of the image, providing the anatomical context for the tumor.",
+      "relative_size": "large within frame",
+      "shape_and_color": "Irregular, organic shape characteristic of breast anatomy, rendered in medical-neutral tones (creams, muted pinks, off-whites, and faint yellows) to distinguish tissue types.",
+      "texture": "Smooth, with subtle variations to represent different tissue densities.",
+      "appearance_details": "Highly detailed internal anatomy, showing ducts, lobules, and connective tissue. The cross-section reveals the layered nature of the breast.",
+      "orientation": "facing forward, as if a sagittal or coronal slice through the breast."
+    },
+    {
+      "description": "A Stage I malignant tumor, approximately 28mm in diameter, embedded within the breast tissue. It is clearly demarcated from the surrounding healthy tissue but shows subtle signs of irregular margins, consistent with early-stage malignancy. Its size and location are precisely depicted.",
+      "location": "upper-outer quadrant of the breast cross-section",
+      "relationship": "Located within the breast tissue, it is the focal point of the educational visualization, highlighting a specific pathological condition.",
+      "relative_size": "medium within frame (relative to the breast)",
+      "shape_and_color": "Irregular, somewhat nodular shape, rendered in a slightly darker, more opaque medical-neutral tone (e.g., a muted grey or slightly purplish hue) compared to healthy tissue, indicating abnormal density.",
+      "texture": "Slightly granular or heterogeneous texture, distinct from the smoother surrounding healthy tissue.",
+      "appearance_details": "Subtle vascularization might be visible around the tumor, indicating its metabolic activity. The margins are defined but not perfectly smooth, suggesting early invasive characteristics.",
+      "orientation": "Embedded within the tissue structure, conforming to its surroundings."
+    }
+  ],
+  "background_setting": "A clean, pure white background, providing maximum contrast and ensuring the anatomical details are the sole focus without any distractions.",
+  "lighting": {
+    "conditions": "Soft, diffused clinical lighting, designed to illuminate the anatomical structures evenly without harsh glare.",
+    "direction": "Evenly lit from multiple angles, simulating standard medical visualization lighting.",
+    "shadows": "Minimal, very soft, and almost imperceptible shadows, primarily used to enhance the 3D depth and separation of tissues rather than create dramatic effect."
+  },
+  "aesthetics": {
+    "composition": "Centered, orthographic view of the cross-section, ensuring all parts of the breast and tumor are clearly visible and proportionally represented. The field of view is tightly cropped to the anatomy.",
+    "color_scheme": "Medical-neutral palette (e.g., creams, muted pinks, soft greys, faint yellows, and subtle purplish tones for pathology), emphasizing clarity and distinction of structures.",
+    "mood_atmosphere": "Informative, sterile, precise, and educational, devoid of any emotional or artistic interpretation beyond scientific accuracy.",
+    "preference_score": "very high",
+    "aesthetic_score": "very high"
+  },
+  "photographic_characteristics": {
+    "depth_of_field": "Deep, ensuring all anatomical details from foreground to background within the cross-section are in sharp focus.",
+    "focus": "Sharp focus throughout the entire cross-section, with particular emphasis on the tumor and surrounding tissue interfaces.",
+    "camera_angle": "Orthographic view, providing a flat, non-perspective representation ideal for precise measurement and anatomical study.",
+    "lens_focal_length": "Equivalent to a macro lens, allowing for extreme detail and close-up examination of the tissue structures without distortion."
+  },
+  "style_medium": "3D render",
+  "context": "This is a highly realistic 3D rendered visualization for medical education, specifically designed to illustrate the internal anatomy of a female breast with a Stage I tumor for diagnostic and pathological study.",
+  "artistic_style": "realistic_3d"
+}
