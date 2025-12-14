@@ -2,6 +2,7 @@
 A JSON-native, AI-powered medical visualization project for breast cancer awareness and early understanding.
 
 ##Inspiration
+
 This project was inspired by my mother, who passed away due to late-stage breast cancer caused by delayed diagnosis.
 During her illness, one of the biggest challenges was not understanding how far the disease had progressed or what was happening inside the body.
 This project is my way of transforming personal loss into a tool for awareness, education, and clearer medical communication.
