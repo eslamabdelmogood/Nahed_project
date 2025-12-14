@@ -1,12 +1,17 @@
 # Nahed_project
 A JSON-native, AI-powered medical visualization project for breast cancer awareness and early understanding.
+------------------------------
 
 ##Inspiration
+
 This project was inspired by my mother, who passed away due to late-stage breast cancer caused by delayed diagnosis.
 
 During her illness, one of the biggest challenges was not understanding how far the disease had progressed or what was happening inside the body.
 
 This project is my way of transforming personal loss into a tool for awareness, education, and clearer medical communication.
+
+------------------------------
+
 
 ##Problem Statement
 
@@ -17,6 +22,12 @@ Breast cancer education and diagnosis often suffer from:
 -Lack of clear, consistent medical visualizations
 
 -Over-reliance on text reports instead of interpretable visuals
+
+
+------------------------------
+
+
+
 
 ##Solution Overview
 
@@ -32,6 +43,11 @@ Instead of relying on text prompts, medical intent is encoded into structured JS
 
 -This enables reproducible, explainable, and production-ready medical visuals.
 
+
+------------------------------
+
+
+
 ##Why FIBO?
 
 -JSON-native generation ensures full control and consistency
@@ -41,6 +57,10 @@ Instead of relying on text prompts, medical intent is encoded into structured JS
 -Scalable pipelines suitable for healthcare education
 
 -Licensed data ensures safe medical visualization
+
+
+------------------------------
+
 
 
 ##How It Was Built
@@ -56,6 +76,9 @@ Instead of relying on text prompts, medical intent is encoded into structured JS
 5-Created a reproducible notebook demonstrating the full pipeline
 
 
+------------------------------
+
+
 
 ##Notebook
 
@@ -68,6 +91,10 @@ Instead of relying on text prompts, medical intent is encoded into structured JS
 -Demonstrates interpretation logic
 
 -Fully runnable without external dependencies
+
+
+------------------------------
+
 
 
 ## Folder Explanation
@@ -103,6 +130,7 @@ can be programmatically analyzed to produce explainable medical insights.
 
 This project is intended for educational and awareness purposes only and does not replace professional medical diagnosis.
 
+------------------------------
 
 ❤️ Acknowledgment
 
